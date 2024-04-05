@@ -1,7 +1,7 @@
 #include "mathFunc.h"
 #include <algorithm>
 #include <vector>
-
+// hi github
 int factorial(int n)
 {
     if (n >= 0) {
